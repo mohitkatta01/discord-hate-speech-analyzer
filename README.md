@@ -17,4 +17,4 @@ Apache Kafka is does not have a persistent disk; although it has fault-tolerant 
 
 Apache Kafka is currently maintained by the Apache Software foundation as an open sourced software.
 
-The link to my medium article to learn more about the code and basics of Apache Kafka: *(Add mediun link)*
+The link to my medium article to learn more about the code and basics of Apache Kafka: *[Medium article](https://medium.com/@mohit-katta/apache-kafka-real-time-hate-speech-analysis-on-discord-servers-ca052ea75e5c)*
